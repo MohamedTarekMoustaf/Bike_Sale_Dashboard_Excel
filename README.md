@@ -19,6 +19,7 @@ Pivot_Table: Pivot tables created for visualization.
 Dashboard: Final interactive dashboard.
 
 📈 Dashboard Features
+<img width="1920" height="1080" alt="Screenshot (599)" src="https://github.com/user-attachments/assets/181a474a-bb3f-4505-8db8-0bc13897e22b" />
 
 The dashboard provides insights into:
 

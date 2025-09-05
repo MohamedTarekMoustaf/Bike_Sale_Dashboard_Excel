@@ -6,7 +6,7 @@ This project presents an interactive Excel dashboard designed to analyze and vis
 
 📊 Dataset
 
-File Name: Excel Project Dataset.xlsx
+File Name: Bike_Sale_Dashboard.xlsx
 
 Sheets Included:
 
@@ -67,7 +67,7 @@ Data cleaning & transformation
 
 🚀 How to Use
 
-Download the file: Excel Project Dataset.xlsx.
+Download the file: Excel Bike_Sale_Dashboard.xlsx.
 
 Open the Dashboard tab.
 
